@@ -9,7 +9,7 @@
   - [Sales Performance Analysis by Location](#Sales-Performance-Analysis-by-Location)
     - [Sales by Region](#Sales-by-Region)
     - [Top 10 Cities ](#Top-10-Cities )
-    - [Best & Worst Performing City](#Best-&-Worst-Performing-City)
+    - [Best & Worst Performing City](#best--worst-performing-city)
   - [Key Revenue Drivers](#Key-Revenue-Drivers)
     - [Sales Method Analysis](#Sales-Method-Analysis)
     - [Product Analysis](#Product-Analysis)
