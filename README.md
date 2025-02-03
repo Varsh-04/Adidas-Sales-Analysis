@@ -32,7 +32,6 @@ This project focuses on analyzing Adidas sales data across various retailers in 
 - To Identify Key Revenue Drivers 
 - To Customer Insights 
 - To Competitive Analysis 
-- To Forecast Future Sales
 
 ## Data Structure Overview
 The dataset contains multiple attributes like sales, Price, Region etc.. Below is an overview of the data structure:
