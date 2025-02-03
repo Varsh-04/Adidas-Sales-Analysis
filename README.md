@@ -1,5 +1,29 @@
 # Adidas US Sales Analysis
 
+## Table of Contents
+- [Project Overview](#Project-Overview)
+- [Project Goals](#Project-Goals)
+- [Data Structure Overview](#Data-Structure-Overview)
+- [Executive Summary](#Executive-Summary)
+- [Insights Deepdive](#Insights-Deepdive)
+  - [Sales Performance Analysis by Location](#Sales-Performance-Analysis-by-Location)
+    - [Sales by Region](#Sales-by-Region)
+    - [Top 10 Cities ](#Top-10-Cities )
+    - [Best & Worst Performing City](#Best-&-Worst-Performing-City)
+  - [Key Revenue Drivers](#Key-Revenue-Drivers)
+    - [Sales Method Analysis](#Sales-Method-Analysis)
+    - [Product Analysis](#Product-Analysis)
+    - [Price per Unit Vs Total Sales](#Price-per-Unit-Vs-Total-Sales)
+  - [Customer Insights](#Customer-Insights)
+    - [Price Sensitivity Analysis](#Price-Sensitivity-Analysis)
+    - [Customer Buying Behaviour Analysis](#Customer-Buying-Behaviour-Analysis)
+    - [Seasonal Trend Analysis](#Seasonal-Trend-Analysis)
+  - [Competitive Analysis](#Competitive-Analysis)
+    - [Comparision Between Retailors Analysis](#Comparision-Between-Retailors-Analysis)
+    - [Comparision Between Cities Analysis](#Comparision-Between-Cities-Analysis)
+  - [Summary of Findings](#Summary-of-Findings)
+
+
 ## Project Overview
 This project focuses on analyzing Adidas sales data across various retailers in the United States, utilizing Excel and Power BI for comprehensive insights.Using Excel, data cleaning and preliminary analysis were conducted to summarize sales trends and profitability. Power BI was then employed to create interactive dashboards, visualizing sales performance by region, product, and retailer. The analysis aims to identify top-performing products and retailers, assess operating margins, and provide actionable insights to optimize sales strategies and enhance profitability.
 
